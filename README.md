@@ -6,6 +6,7 @@ This is an analysis on stock market prices of APPLE, AMAZON, MICROSOFT, TESLA, N
 The data was gotten from Yahoo Finance and saved to the csv file 'stock_prices.csv'.
 
 In this project i will be analyzing the data to try and answer the following questions:
+
     1.) What was the change in price of the stock over time?
     2.) What was the daily return of the stock on average?
     3.) What was the moving average of the various stocks?
